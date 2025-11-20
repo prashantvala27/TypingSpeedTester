@@ -25,14 +25,21 @@ The Typing Speed Tester is an interactive web application that enables users to 
 
 ## 📸 Screenshots
 
-### Main Typing Test Interface
-![Typing Test](screenshots/typing-test.png)
+### 1. Main Typing Test Interface
+![Typing Test Interface](typing-test.png)
+*Interactive typing test page with real-time statistics and countdown timer*
 
-### Test History
-![History](screenshots/history.png)
+### 2. Test Result Page
+![Test Results](result.png)
+*Final performance metrics displayed after completing the test*
 
-### Performance Statistics
-![Statistics](screenshots/statistics.png)
+### 3. Test History
+![Test History](history.png)
+*Complete list of all past typing tests with performance indicators*
+
+### 4. Performance Statistics
+![Statistics Dashboard](statistics.png)
+*Overall performance summary showing total tests, average speed, and best score*
 
 ## 🚀 Getting Started
 
